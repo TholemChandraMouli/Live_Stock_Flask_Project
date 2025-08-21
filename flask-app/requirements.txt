@@ -1,5 +1,7 @@
-﻿flask==3.0.3
-pandas==2.2.2
-matplotlib==3.9.2
-requests==2.32.3
-finnhub-python==2.4.18
+Flask
+matplotlib
+pandas
+finnhub-python
+yfinance
+requests
+reportlab
