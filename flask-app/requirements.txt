@@ -1,7 +1,5 @@
-Flask
+flask
 matplotlib
+requests
 pandas
 finnhub-python
-yfinance
-requests
-reportlab
